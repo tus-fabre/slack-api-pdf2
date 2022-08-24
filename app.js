@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 8b - PDFファイルに表を追加する
+ *  Lesson PDF 2 - PDFファイルに表を追加する
  * 
  * [NOTE]
  */
